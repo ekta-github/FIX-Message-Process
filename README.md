@@ -23,7 +23,7 @@ java -cp fix-message-processor.jar com.richardarcega.fix.client.ClientQuickFixJI
 Building
 --------
 
-#### To build the project using Maven, run the following goal:
+##### To build the project using Maven, run the following goal:
 ```
 mvn clean javadoc:jar source:jar package
 ```
