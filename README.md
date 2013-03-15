@@ -34,7 +34,7 @@ mvn clean javadoc:jar source:jar package
 
 Sample I/O
 ----------
-
+```
 Type 'exit' to quit
 Enter FIX 4.4 NewOrderSingle message >>> 8=FIX.4.49=12235=D34=21549=CLIENT1252=20100225-19:41:57.31656=B1=Marcel11=1334621=140=255=MSFT38=144=554=159=060=20100225-19:39:52.02010=4
 FIX message is valid!
