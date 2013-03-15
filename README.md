@@ -1,7 +1,7 @@
 FIX Message Processor
 =====================
 
-A console application that prompts the user for a FIX 4.4 NewOrderSingle message, parses the input, and validates the message
+An application that prompts the user for a FIX (Financial Information eXchange) 4.4 NewOrderSingle message, parses the input, and validates the message
 for errors.
 
 Usage
