@@ -7,16 +7,14 @@ for errors.
 Usage
 -----
 
-#### To run the implementation that does not use any third-party FIX engines:
-Import as a project in Eclipse and Run as a Java Application.
-Alternatively run the following at the command prompt to execute the program:
+##### For example usage that does not use any third-party FIX engines:
+Run the following at the command prompt to execute the sample program:
 ```
 java -cp fix-message-processor.jar com.richardarcega.fix.client.ClientImpl
 ```
 
-#### To run the implementation that utilizes the QuickFix/J FIX Engine:
-Import as a project in Eclipse and Run as a Java Application.
-Alternatively run the following at the command prompt to execute the program:
+##### For example usage that utilizes the QuickFix/J FIX Engine:
+Run the following at the command prompt to execute the sample program:
 ```
 java -cp fix-message-processor.jar com.richardarcega.fix.client.ClientQuickFixJImpl
 ```
